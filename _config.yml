@@ -1,8 +1,38 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
-theme: just-the-docs
+baseurl: "/GPTPardi"
+url: "https://ouaisfieu.github.io"
+remote_theme: just-the-docs/just-the-docs
 
-url: https://just-the-docs.github.io
+title: "GPTPardi"
+description: "Le dico qui pue du cul"
+
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+aux_links:
+  ouaisfi.eu: https://ouaisfi.eu
+
+nav:
+  - title: Notions
+    url: /notions/
+
+
+
+search_enabled: true
+color_scheme: dark
+
+
+collections:
+  notions:
+    output: true
+
+
+just_the_docs:
+  collections:
+    notions:
+      name: MENU
+      nav_fold: false
+
+
+back_to_top: true
+back_to_top_text: "↑ Haut de page"
