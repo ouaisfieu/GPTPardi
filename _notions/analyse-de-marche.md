@@ -5,9 +5,19 @@ nav_order: 1          # position dans le menu Notions
 parent: Notions
 layout: default
 permalink: /notions/analyse-de-marche/
-toc: true             # table des matières automatique Just the Docs
 
 ---
+
+# Table des matières
+{: .no_toc .text-delta }
+
+<details markdown="block">
+  <summary>Sommaire</summary>
+  {: .text-delta }
+
+1. Sommaire
+{:toc}
+</details>
 
 
 
