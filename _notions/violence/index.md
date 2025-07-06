@@ -40,16 +40,7 @@ L’objectif ? **Passer d’un regard moral (« bien/mal ») à une compréhensi
 
 ---
 
-## Table des matières
-{: .text-delta }
 
-1. [Une constante historique](./constante-historique)  
-2. [Réduire ou réguler ?](./reduire-reguler)  
-3. [Violence économique](./violence-economique)  
-4. [Violences de classes](./violences-classes)  
-5. [Violence des élites](./violence-elites)
-
----
 
 ## 1 · Une constante historique – Pourquoi la violence ne disparaît jamais ?
 Cette section remonte de la préhistoire aux guerres contemporaines :  
@@ -82,7 +73,7 @@ Ici, la violence est un **langage social** :
 - dans les milieux favorisés : l’exclusion symbolique et la violence « éducative » ;  
 - rôles de la police, des médias, des tribunaux dans la gestion des conflagrations de classe.
 
-Lien: [Violences de classes](./violences-classes)  
+Lien: [Violences de classes](./violences-entre-classes-sociales)  
 
 ## 5 · Violence des élites – L’art de frapper sans se mouiller
 Dernier chaînon : **l’invisible**.  
@@ -90,7 +81,7 @@ Dernier chaînon : **l’invisible**.
 - violence symbolique : langage, récit du mérite, production culturelle ;  
 - réponse : dévoiler, délégitimer, désobéir.
 
-Lien: [Violence des élites](./violence-elites)
+Lien: [Violence des élites](./violence-des-elites)
 
 ---
 
