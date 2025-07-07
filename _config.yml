@@ -25,13 +25,18 @@ color_scheme: dark
 collections:
   notions:
     output: true
-
+  dossiers:               # ← Ajout de la collection
+    output: true          # ← Très important pour générer les pages HTML
 
 just_the_docs:
   collections:
     notions:
       name: MENU
       nav_fold: false
+    dossiers:             # ← Même structure pour dossiers
+      name: Dossiers      # ← Nom affiché dans la navigation
+      nav_fold: false     # ← Mettre true si tu veux un repliement dans le menu
+
 
 
 back_to_top: true
