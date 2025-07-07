@@ -1,6 +1,6 @@
 ---
 title: "Le Dieselgate"
-nav_order: 1
+nav_order: 2
 layout: default
 permalink: /dossiers/dieselgate/
 ---
@@ -114,6 +114,6 @@ Cependant, pour respecter les normes anti-pollution sans compromettre les perfor
 
 ---
 
-### **Prochain focus : [[▣ BigBackUP ▣/ANNEXES/DESKDDOS/L’affaire Pegasus]] (2021)**
+### **Prochain focus : L’affaire Pegasus (2021)**
 
 Ce scandale révèle **l’utilisation illégale du logiciel espion Pegasus** pour surveiller des journalistes, des opposants politiques et des chefs d’État, soulevant des inquiétudes sur **la cybersurveillance et la protection des libertés fondamentales**.
