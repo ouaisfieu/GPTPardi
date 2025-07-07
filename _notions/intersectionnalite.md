@@ -25,7 +25,7 @@ L'intersectionnalité est un concept issu des études féministes et des science
 
 - **Genre** (hommes, femmes, personnes non-binaires)
 - **Race** ou origine ethnique
-- **Classe sociale ou statut socio-économique
+- **Classe sociale ou statut socio-économique**
 - **Orientation sexuelle**
 - **Handicap**
 - **Âge**
