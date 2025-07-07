@@ -1,4 +1,4 @@
- ---
+---
 title: "L'affaire du Kazakhgate"
 nav_order: 6
 layout: default
