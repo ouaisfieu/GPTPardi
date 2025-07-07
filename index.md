@@ -14,7 +14,7 @@ description: "Le dico qui pue du cul"
 
 **Résultats de recherche avec l'IA**
 
-Bienvenue sur **GPTPardi**, espace de diffusion de notes et de résultats de recherches assisté par intelligence artificielle.
+Bienvenue sur **GPTPardi**, espace de diffusion de notes et de résultats de recherches assistées par intelligence artificielle.
 
 Vous y trouverez des trucs en vrac, pas forcément mis à jour. Et relativement douteux comme d'hab.
 
