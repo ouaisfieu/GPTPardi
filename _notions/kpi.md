@@ -23,8 +23,6 @@ permalink: /notions/kpi/
 
 ## Les Key Performance Indicators
 
-Les KPIs (Key Performance Indicators) sont des indicateurs essentiels pour mesurer le succès de ton blog. Ils t'aideront à comprendre quelles stratégies fonctionnent, où tu peux améliorer, et comment optimiser tes efforts pour atteindre tes objectifs. Voici quelques KPIs pertinents pour évaluer ton projet de blog :
-
 
 Les KPIs (Key Performance Indicators) sont des indicateurs essentiels pour mesurer le succès de ton blog. Ils t'aideront à comprendre quelles stratégies fonctionnent, où tu peux améliorer, et comment optimiser tes efforts pour atteindre tes objectifs. Voici quelques KPIs pertinents pour évaluer ton projet de blog :
 
