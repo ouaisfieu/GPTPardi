@@ -1,11 +1,10 @@
 ---
 title: "Intersectionnalité"
 nav_order: 1
-has_children: false
-parent: Dossiers
 layout: default
 permalink: /dossiers/intersectionnalite/
 ---
+
 
 # Table des matières
 {: .no_toc .text-delta }
