@@ -20,6 +20,10 @@ Vous y trouverez des trucs en vrac, pas forcément mis à jour. Et relativement 
 
 ---
 
+![Logo GPTPardi](/assets/images/logo.webp){: style="display:block; margin: 0 auto 1.5rem; max-width:200px; height:auto;" }
+
+---
+
 ## Thématiques principales
 
 - **Théorie & Concepts**  
@@ -50,11 +54,10 @@ Toutes les notes sont rédigées en **Markdown**, librement accessibles et basé
 
 ## Contribuer & Contact
 
-Vos questions, suggestions de sujets ou retours d’expérience sont précieux !  
-→ Écrivez-moi à **votre.email@example.com** ou ouvrez une issue sur [le dépôt GitHub](https://github.com/ouaisfieu/GPTPardi).
+Demain.
 
 ---
 
 <p align="center">
-  © 2025 • GPTPardi – Notes de recherche & réflexions collaboratives
+  © 2025 • GPTPardi – Dont'be evil, just do it
 </p>
