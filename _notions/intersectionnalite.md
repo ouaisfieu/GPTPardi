@@ -2,7 +2,6 @@
 title: "Intersectionnalité"
 nav_order: 1
 layout: default
-permalink: /dossiers/intersectionnalite/
 ---
 
 
