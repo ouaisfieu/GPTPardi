@@ -40,13 +40,6 @@ just_the_docs:
       nav_fold: false     # ← Mettre true si tu veux un repliement dans le menu
 
 
-defaults:
-  - scope:
-      path: ""
-      type: pages
-    values:
-      image: "/favicon.svg"
-
 
 
 back_to_top: true
