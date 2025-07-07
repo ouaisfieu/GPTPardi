@@ -6,7 +6,7 @@ hero:
   image: /assets/images/logo.webp
   alt: “Logo GPTPardi”
   text: |
-    ## Bienvenue sur **GPTPardi**  
+    Bienvenue sur GPTPardi  
     Le dico qui pue du cul
   links:
     - title: “Découvrir”
