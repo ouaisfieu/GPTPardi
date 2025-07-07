@@ -5,6 +5,7 @@ nav_order: 9        # place le bloc Violence dans la liste Notions
 parent: Notions
 has_children: true  # indispensable pour afficher les enfants
 permalink: /notions/violence/
+toc: true
 ---
 
 # Table des matières
@@ -73,7 +74,7 @@ Ici, la violence est un **langage social** :
 - dans les milieux favorisés : l’exclusion symbolique et la violence « éducative » ;  
 - rôles de la police, des médias, des tribunaux dans la gestion des conflagrations de classe.
 
-Lien: [Violences de classes](./violences-entre-classes-sociales)  
+Lien: [Violences de classes](./violence-entre-classes-sociales)  
 
 ## 5 · Violence des élites – L’art de frapper sans se mouiller
 Dernier chaînon : **l’invisible**.  
