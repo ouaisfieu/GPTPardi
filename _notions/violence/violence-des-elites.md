@@ -4,6 +4,7 @@ title: "5 · Violence des élites"
 parent: "Violence : panorama général"   # doit correspondre au titre exact du parent
 grand_parent: Notions                  # s’affiche correctement dans le fil d’Ariane
 nav_order: 5
+toc: true
 ---
 
 # Table des matières
