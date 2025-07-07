@@ -22,33 +22,21 @@ Vous y trouverez des trucs en vrac, pas forcément mis à jour. Et relativement 
 
 ![Logo GPTPardi](/assets/images/logo.webp){: style="display:block; margin: 0 auto 1.5rem; max-width:200px; height:auto;" }
 
----
-
-## Thématiques principales
-
-- **Théorie & Concepts**  
-  Intersectionnalité | Concepts théoriques complexes | Figures de style  
-- **Sociologie & Éducation**  
-  Récits collectifs | Ludification & éducation | Éducation populaire  
-- **Stratégie & Management**  
-  KPIs & indicateurs clés | Méthode des six chapeaux | Opération stratégique  
-- **Innovation & Valeur**  
-  Création de valeur (business & sociale) | Outils de pensée | Collapsologie  
-- **Sujets transversaux**  
-  Mixités choisies | Oligarchie | Trash Reality | Féminismes  
-
-> *…et bien d’autres à découvrir au fil de vos explorations.*
 
 ---
 
 ## À propos
 
-GPTPardi est un projet personnel visant à :
-1. Centraliser mes recherches et réflexions.
-2. Partager librement des ressources pédagogiques.
+GPTPardi est un projet visant à :
+1. Centraliser des recherches et pistes de réflexions.
+**Pour la science**
+2. Partager librement des ressources libres.
+**Pour la postérité**
 3. Favoriser un dialogue actif entre l’intelligence humaine et l’IA.
+**Pour le fun**
 
-Toutes les notes sont rédigées en **Markdown**, librement accessibles et basées sur des outils **open source**.
+Toutes les notes sont rédigées en **Markdown**, librement accessibles et basées sur des outils **"open source"**.
+Pas d'utilisation commerciale, self-service open bar pour les autres
 
 ---
 
