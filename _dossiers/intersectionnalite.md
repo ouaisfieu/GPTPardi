@@ -1,6 +1,6 @@
 ---
 title: "Intersectionnalité"
-# nav_order: 1
+nav_order: 1
 has_children: false
 parent: Dossiers
 layout: default
