@@ -1,13 +1,19 @@
 ---
-title: Home
 layout: home
+title: “GPTPardi”
+permalink: /
+hero:
+  image: /assets/images/logo.webp
+  alt: “Logo GPTPardi”
+  text: |
+    ## Bienvenue sur **GPTPardi**  
+    Le dico qui pue du cul
+  links:
+    - title: “Découvrir”
+      url: /docs/
+    - title: “GitHub”
+      url: https://github.com/ouaisfieu/GPTPardi
 ---
 
-# Dictionnaire de notions
+*Quelques mots d’introduction*  
 
-Bienvenue dans ce dictionnaire en ligne. Explorez les concepts :
-
-
-- [La violence dans nos sociétés](/notions/violence/)
-
----
