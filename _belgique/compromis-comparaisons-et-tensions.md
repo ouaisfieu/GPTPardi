@@ -1,7 +1,8 @@
 ---
 layout: default
-title: "Compromis : comparaisons et tensions démocratiques"
-nav_order: 12
+title: "Comparaisons et tensions démocratiques"
+parent: Compromis
+nav_order: 3
 permalink: /belgique/compromis-comparaisons-et-tensions/
 
 ---
