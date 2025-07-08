@@ -35,7 +35,7 @@ collections:
     sort_by: title           # ← optionnel, trie par titre
   et-vous:
     output: true
-    permalink: /et-vous/:path/  # ← structure des URL
+    # permalink: /et-vous/:path/  # ← structure des URL
     
 just_the_docs:
   collections:
