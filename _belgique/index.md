@@ -1,5 +1,5 @@
 ---
-title: 🇧🇪 État, Nation, Pays, Patrie
+title: État, Nation, Patrie
 layout: default
 nav_order: 1
 has_children: true
@@ -17,7 +17,7 @@ permalink: /belgique/
 {:toc}
 </details>
 
-# État, pays, nation, patrie… Définitions et nuances
+# État, nation, patrie… Définitions et nuances
 
 Ce document présente un panorama non exhaustif mais structuré des termes employés pour désigner des entités politiques, géographiques ou culturelles. Les mots comme **État**, **pays**, **nation**, **patrie** ne sont pas strictement synonymes, et leurs différences sont cruciales en droit, géographie, sociologie et politique.
 
