@@ -1,7 +1,8 @@
 ---
 layout: default
-title: "Pilarisation - comparaisons internationales"
-nav_order: 6
+title: "Comparaisons internationales"
+parent: Pilarisation
+nav_order: 3
 permalink: /belgique/pilarisation-comparaisons-internationales/
 ---
 
