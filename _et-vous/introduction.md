@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Introduction : L’autonomie individuelle face à l’hégémonie capitaliste"
+title: "Autonomie individuelle vs hégémonie capitaliste"
 nav_order: 1
 
 ---
