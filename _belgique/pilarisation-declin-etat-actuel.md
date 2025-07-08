@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Pilarisation déclin et état actuel
+title: "Pilarisation - déclin et état actuel"
 nav_order: 5
 permalink: /belgique/pilarisation-declin-etat-actuel/
 ---
