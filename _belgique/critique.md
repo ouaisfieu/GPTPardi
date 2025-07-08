@@ -1,5 +1,6 @@
 ---
 title: 🇧🇪 · Cadre critique
+layout: default
 nav_order: 0
 permalink: /belgique/critique/
 has_children: false
