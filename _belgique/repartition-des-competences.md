@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "Répartition des compétences"
-nav_order: 16
+parent: Complexité
+nav_order: 3
 permalink: /belgique/repartition-des-competences/
 ---
 
