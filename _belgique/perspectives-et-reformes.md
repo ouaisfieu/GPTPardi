@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "Perspectives et 7ᵉ réforme de l'État"
-nav_order: 19
+parent: Complexité
+nav_order: 6
 permalink: /belgique/perspectives-et-reformes/
 ---
 
