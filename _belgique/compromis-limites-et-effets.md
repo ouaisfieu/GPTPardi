@@ -1,7 +1,8 @@
 ---
 layout: default
-title: "Compromis : limites et effets pervers"
-nav_order: 11
+title: "Limites et effets pervers"
+parent: Compromis
+nav_order: 2
 permalink: /belgique/compromis-limites-et-effets/
 ---
 
