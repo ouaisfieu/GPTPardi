@@ -2,7 +2,7 @@
 layout: default
 title: "Introduction : L’autonomie individuelle face à l’hégémonie capitaliste"
 nav_order: 1
-parent: Pouvoir d'agir collectif
+parent: "Pouvoir d'agir collectif"
 
 ---
 
