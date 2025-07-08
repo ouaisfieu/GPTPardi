@@ -1,9 +1,13 @@
 ---
 layout: default
-title: "Introduction"
-nav_order: 1
-parent: Belgique : forces et faiblesses systémiques
+title: Introduction
+nav_order: 2
+has_children: false
+permalink: /belgique/introduction/
+
 ---
+
+
 
 # Introduction
 
