@@ -33,7 +33,7 @@ GPTPardi est un projet visant à :
 2. Partager librement des ressources libres.
 **Pour la postérité**
 3. Favoriser un dialogue actif entre l’intelligence humaine et l’IA.
-**Pour le style, l'esthétique, et au-delà**
+**Pour le style**
 
 Toutes les notes sont rédigées en **Markdown**, librement accessibles et basées sur des outils **"open source"**.
 Pas d'utilisation commerciale, self-service open bar pour les autres
