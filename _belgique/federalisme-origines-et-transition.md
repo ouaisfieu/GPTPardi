@@ -2,7 +2,8 @@
 
 layout: default
 title: "Fédéralisme : origines et transition"
-nav_order: 13
+parent: Complexité
+nav_order: 0
 permalink: /belgique/federalisme-origines-et-transition/
 
 ---
