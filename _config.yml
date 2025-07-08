@@ -50,7 +50,7 @@ just_the_docs:
       nav_fold: true         # ← false = tout est affiché dans le menu, true = replié
     et-vous:
       name: 🖕 UP YOURS
-      nav_fold: false
+      nav_fold: true
 
 
 back_to_top: true
