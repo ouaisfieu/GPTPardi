@@ -1,7 +1,7 @@
 ---
 
 layout: default
-title: "Réformes de l État"
+title: "Reformes de l'Etat : de l'unitaire au federal"
 nav_order: 14
 permalink: /belgique/reformes-de-letat/
 
