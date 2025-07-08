@@ -44,7 +44,7 @@ just_the_docs:
       nav_fold: true     # ← Mettre true si tu veux un repliement dans le menu
     belgique:
       name: 🇧🇪 MY SPOT       # ← titre dans le menu de navigation
-      nav_fold: true         # ← false = tout est affiché dans le menu, true = replié
+      nav_fold: false         # ← false = tout est affiché dans le menu, true = replié
 
 
 
