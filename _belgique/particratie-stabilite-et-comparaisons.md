@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "Particratie : stabilité et comparaisons internationales"
-nav_order: 9
+parent: Particratie
+nav_order: 3
 permalink: /belgique/particratie-stabilite-et-comparaisons/
 ---
 
