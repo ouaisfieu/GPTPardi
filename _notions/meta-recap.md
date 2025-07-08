@@ -2,7 +2,6 @@
 
 layout: default
 title: "Le méta récap’"
-permalink: /
 nav_order: 66
 permalink: /notions/meta-recap/
 parent: Notions
