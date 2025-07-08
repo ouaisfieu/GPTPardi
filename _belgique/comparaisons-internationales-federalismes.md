@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "Comparaisons internationales : autres fédéralismes"
-nav_order: 18
+parent: Complexité
+nav_order: 5
 permalink: /belgique/comparaisons-internationales-federalismes/
 ---
 
