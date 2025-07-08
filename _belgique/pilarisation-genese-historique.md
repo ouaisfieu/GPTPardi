@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Pilarisation : genèse historique
+title: "Pilarisation : genèse historique"
 nav_order: 4
 permalink: /belgique/pilarisation-genese-historique
 ---
