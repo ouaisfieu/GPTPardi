@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "Particratie : fonctionnement et pouvoir des présidents"
-nav_order: 7
+parent: Particratie
+nav_order: 1
 permalink: /belgique/particratie-fonctionnement-et-presidents/
 ---
 
