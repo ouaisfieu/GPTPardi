@@ -1,7 +1,8 @@
 ---
 layout: default
-title: "Compromis : origines et rôle stabilisateur"
-nav_order: 10
+title: "Origines et rôle stabilisateur"
+parent: Compromis
+nav_order: 1
 permalink: /belgique/compromis-origines-et-stabilite/
 ---
 
