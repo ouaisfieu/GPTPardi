@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "Effets de la complexité sur la gouvernance"
-nav_order: 17
+parent: Complexité
+nav_order: 4
 permalink: /belgique/effets-complexite-gouvernance/
 ---
 
