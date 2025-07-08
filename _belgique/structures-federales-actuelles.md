@@ -2,7 +2,8 @@
 
 layout: default
 title: "Structures fédérales actuelles"
-nav_order: 15
+parent: Complexité
+nav_order: 2
 permalink: /belgique/structures-federales-actuelles/
 
 ---
