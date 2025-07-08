@@ -3,6 +3,7 @@ layout: default
 title: "Compromis : comparaisons et tensions démocratiques"
 nav_order: 12
 permalink: /belgique/compromis-comparaisons-et-tensions/
+
 ---
 
 # Compromis : comparaisons et tensions démocratiques
