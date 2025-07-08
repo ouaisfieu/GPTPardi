@@ -1,9 +1,8 @@
 ---
 layout: default
-title: "Pilarisation : genèse historique"
-nav_order: 2
-parent: Belgique : forces et faiblesses systémiques
-grand_parent: _belgique
+title: Pilarisation : genèse historique
+nav_order: 4
+permalink: /belgique/pilarisation-genese-historique
 ---
 
 # Pilarisation : genèse historique
