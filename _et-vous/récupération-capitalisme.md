@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Mécanismes de récupération du capitalisme"
+title: "Récupération du capitalisme"
 nav_order: 4
 ---
 
