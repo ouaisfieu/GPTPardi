@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Autonomie, empowerment et hégémonie : perspectives théoriques"
+title: "Perspectives théoriques"
 nav_order: 2
 ---
 
