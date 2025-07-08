@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Particratie : critiques et dérives démocratiques"
+title: "Critiques et dérives démocratiques"
 parent: Particratie
 nav_order: 2
 permalink: /belgique/particratie-critiques-et-derives/
