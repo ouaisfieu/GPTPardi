@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Note critique sur le corpus : bilan et perspectives"
+title: "Sur le corpus : bilan et perspectives"
 nav_order: 99
 ---
 
