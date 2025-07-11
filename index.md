@@ -2,7 +2,7 @@
 layout: home
 title: GPTPardi
 permalink: /
-description: "Le dico qui pue du cul"
+description: "Le dico qui fouette"
 
 ---
 
@@ -10,7 +10,7 @@ description: "Le dico qui pue du cul"
 
 # GPTPardi
 
-## Le dico qui pue du cul
+## Le dico qui fouette
 
 **Résultats de recherche avec l'IA**
 
