@@ -83,11 +83,11 @@ Vous pouvez :
 
 | Canal | Lien |
 |-------|------|
-| Dépôt GitHub | <https://github.com/ouaisfieu> |
+| Dépôt GitHub | <https://ouaisfieu.github.io/> |
 | Email | rickroll.again@haha.com |
 | Bluesky | `@ouaisfieu.bsky.social` |
 | Forum d’échanges | à venir |
 
 ---
-
+https://ouaisfieu.github.io/
 *Dernière mise à jour : 14 juillet 2025*  
