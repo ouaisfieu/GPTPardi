@@ -2,7 +2,7 @@
 layout: home
 title: GPTPardi
 permalink: /
-description: "Le dico qui fouette"
+description: "Le dico dans le vent"
 
 ---
 
@@ -10,7 +10,7 @@ description: "Le dico qui fouette"
 
 # GPTPardi
 
-## Le dico qui fouette
+## Le dico dans le vent
 
 **Résultats de recherche avec l'IA**
 
