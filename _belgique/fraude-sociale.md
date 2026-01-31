@@ -254,3 +254,7 @@ Tu veux que je génère :
 4. **Une page index** qui regroupe tout le dossier ?
 
 Dis-moi par quelle plateforme tu veux commencer (Fixit pour l'article pilier semble logique) et je te livre les fichiers prêts à déployer.
+
+> Toutes, mais j'ai la flemmenr alors à+
+> Travaille bien en m'attendant,
+> bisous
