@@ -222,7 +222,7 @@ selon les données de l'INAMI. Ce chiffre représente :
        └───────────┴───────────┴───────────┴───────────┘
                                │
                     ┌──────────▼──────────┐
-                    │  GLOSSAIRE (Relearn) │
+                    │  GLOSSAIRE (Relearn)│
                     └─────────────────────┘
 ```
 
